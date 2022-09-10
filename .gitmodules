@@ -19,3 +19,6 @@
 [submodule "lib/ngraph.path.git"]
 	path = lib/ngraph.path.git
 	url = https://github.com/anvaka/ngraph.path.git
+[submodule "lib/ngraph.graph.git"]
+	path = lib/ngraph.graph.git
+	url = https://github.com/anvaka/ngraph.graph.git
