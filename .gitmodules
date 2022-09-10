@@ -16,3 +16,6 @@
 [submodule "lib/openzeppelin-contracts"]
 	path = lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/ngraph.path.git"]
+	path = lib/ngraph.path.git
+	url = https://github.com/anvaka/ngraph.path.git
