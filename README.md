@@ -1,6 +1,6 @@
 # DexSwap
 
-A Uniswap V3 clone built from scratch for educational purposes. Part of free and open-source [Uniswap V3 Development Book](https://uniswapv3book.com). 
+A Uniswap V3 clone built from scratch for educational purposes. Part of free and open-source [Uniswap V3 Development Book](https://uniswapv3book.com) by Ivan Kuznetsov. 
 
 ![Front-end application screenshot](/screenshot.png)
 
